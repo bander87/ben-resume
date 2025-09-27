@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+author: Ben Adler
 ---
 
 # Hi, I’m Ben 👋
