@@ -2,3 +2,6 @@ title: "Ben Adler Portfolio"
 description: 
 theme: minima
 author: ""
+kramdown:
+  parse_block_html: true
+  input: GFM
