@@ -4,9 +4,30 @@ title: Home
 ---
 
 # Hi, I’m Ben 👋
-I’m a full stack developer specializing in cloud and .NET web apps. My passion is building real-world products that users love. I believe great products start with understanding users’ needs and desires, and delivering solutions with clean, maintainable code.
 
-![Headshot](assets/img/headshot.jpg)
+![](https://media.licdn.com/dms/image/v2/D4E03AQEOJ_e-tw1Zow/profile-displayphoto-crop_800_800/B4EZnDu6y0KYAI-/0/1759925480986?e=1763596800&v=beta&t=1DGODouJX8KtIRVIqPdM2Q-A4fzQZowcR24aXcbzl_k){: .align-left }
+Something about the first picture.
+{:style="clear: left"}
+
+
+<table>
+  <tr>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4E03AQEOJ_e-tw1Zow/profile-displayphoto-crop_800_800/B4EZnDu6y0KYAI-/0/1759925480986?e=1763596800&v=beta&t=1DGODouJX8KtIRVIqPdM2Q-A4fzQZowcR24aXcbzl_k" alt="Headshot" height="400" style="border-radius: 50%;"></td>
+    <td>I’m a full stack developer specializing in cloud and .NET web apps. My passion is building real-world products that users love. I believe great products start with understanding users’ needs and delivering solutions with clean, maintainable code.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQEOJ_e-tw1Zow/profile-displayphoto-crop_800_800/B4EZnDu6y0KYAI-/0/1759925480986?e=1763596800&v=beta&t=1DGODouJX8KtIRVIqPdM2Q-A4fzQZowcR24aXcbzl_k" alt="Headshot" width="400" style="border-radius: 50%;">
+    </td>
+    <td style="vertical-align: top;">
+          <p>I’m a full stack developer specializing in cloud and .NET web apps. My passion is building real-world products that users love. I believe great products start with understanding users’ needs and delivering solutions with clean, maintainable code.</p>
+    </td>
+  </tr>
+</table>
 
 ## Skills
 - C#
