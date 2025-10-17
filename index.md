@@ -3,15 +3,11 @@ layout: default
 title: Home
 ---
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQEOJ_e-tw1Zow/profile-displayphoto-crop_800_800/B4EZnDu6y0KYAI-/0/1759925480986?e=1763596800&v=beta&t=1DGODouJX8KtIRVIqPdM2Q-A4fzQZowcR24aXcbzl_k"
-     alt="Ben Adler Headshot"
-     style="float: left; height: 450px; margin: 0 1em 1em 0;" />
+![](https://media.licdn.com/dms/image/v2/D4E03AQEOJ_e-tw1Zow/profile-displayphoto-crop_800_800/B4EZnDu6y0KYAI-/0/1759925480986?e=1763596800&v=beta&t=1DGODouJX8KtIRVIqPdM2Q-A4fzQZowcR24aXcbzl_k){: style="float: left; height: 450px; margin-right: 1em;" }
 
-<p>
-  I’m a full stack developer specializing in cloud and .NET web apps. My passion is building real-world products that users love. I believe great products start with understanding users’ needs and delivering solutions with clean, maintainable code.
-</p>
+Something about the first picture.
+{: style="clear: left;" }
 
-<div style="clear: left;"></div>
 
 
 # Hi, I’m Ben 👋
