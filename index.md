@@ -4,7 +4,7 @@ title: Home
 ---
 # Hi, I’m Ben 👋
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQEOJ_e-tw1Zow/profile-displayphoto-crop_800_800/B4EZnDu6y0KYAI-/0/1759925480986?e=1763596800&v=beta&t=1DGODouJX8KtIRVIqPdM2Q-A4fzQZowcR24aXcbzl_k"
+<img src="/images/ben-adler-headshot-300.jpg"
      alt="Ben Adler Headshot"
      style="float: left;
     height: 150px;
