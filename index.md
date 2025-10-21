@@ -4,7 +4,7 @@ title: Home
 ---
 # Hi, I’m Ben 👋
 
-<img src="/images/ben-adler-headshot-300.jpg"
+<img src="/ben-resume/images/ben-adler-headshot-300.jpg"
      alt="Ben Adler Headshot"
      style="float: left;
     height: 150px;
