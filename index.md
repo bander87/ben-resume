@@ -23,6 +23,12 @@ title: Home
 - React
 - AWS
 
+<span class="badge rounded-pill text-bg-primary">HTML</span>
+<span class="badge rounded-pill text-bg-success">CSS</span>
+<span class="badge rounded-pill text-bg-warning text-dark">JavaScript</span>
+<span class="badge rounded-pill text-bg-info text-dark">Jekyll</span>
+<span class="badge rounded-pill text-bg-secondary">GitHub Pages</span>
+
 ## Projects
 
 ### Keyword Chef
