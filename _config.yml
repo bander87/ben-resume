@@ -1,6 +1,7 @@
 title: "Ben Adler Portfolio"
 description: 
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima@v3.0.0
 author: ""
 kramdown:
   parse_block_html: true
