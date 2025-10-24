@@ -1,8 +1,22 @@
 title: "Ben Adler Portfolio"
-description: 
-#theme: minima
+description: "Portfolio and projects by Ben Adler"
+# theme: minima
 remote_theme: jekyll/minima@v3.0.0
-author: ""
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+author:
+  name: "Ben Adler"
+  # email: your-email@example.com (optional)
+
 kramdown:
   parse_block_html: true
   input: GFM
+
+# Minima 3.0 specific settings (optional)
+minima:
+  skin: auto  # Options: auto, classic, dark, solarized, solarized-dark
+  # social_links:
+  #   - { platform: github, user_url: "https://github.com/yourusername" }
+  #   - { platform: linkedin, user_url: "https://linkedin.com/in/yourusername" }
