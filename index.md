@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 ## Hi, I’m Ben 👋
 
@@ -18,7 +17,7 @@ title: Home
 <div style="clear: left;"></div>
 
 ## Skills
-💻 **Languages:** C#, JavaScript, TypeScript, SQL , Postgres 
+💻 **Languages:** C#, JavaScript, TypeScript, SQL, Postgres  
 🎨 **Frontend:** React, HTML, CSS, Bootstrap  
 ⚙️ **Backend:** .NET Core, ASP.NET, REST APIs  
 ☁️ **Cloud:** AWS, Azure  
