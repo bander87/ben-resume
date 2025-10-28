@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 ## Hi, I’m Ben 👋
 
