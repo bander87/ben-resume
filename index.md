@@ -1,6 +1,6 @@
 ---
 layout: base
-
+title: Home
 ---
 ## Hi, I’m Ben 👋
 
