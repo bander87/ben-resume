@@ -1,6 +1,7 @@
 title: "Ben Adler"
 description: 
-nav_pages: []
+nav_pages: 
+ - 
 #theme: minima
 remote_theme: jekyll/minima
 plugins:
