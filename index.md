@@ -1,5 +1,6 @@
 ---
 layout: base
+title: portfolio
 ---
 ## Hi, I’m Ben 👋
 
