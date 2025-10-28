@@ -1,5 +1,6 @@
 title: "Ben Adler Portfolio"
 description: 
+header_pages: []
 #theme: minima
 remote_theme: jekyll/minima
 plugins:
