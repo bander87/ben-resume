@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Home
+layout: page
 ---
 ## Hi, I’m Ben 👋
 
